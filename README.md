@@ -6,7 +6,6 @@
 - To find out more about me visit my website: https://www.getyoursite.info
 - Send me your message: https://www.getyoursite.info/contact-me
 - Email me: getyourbestsite@gmail.com
-- Check out my UpWork profile: https://www.upwork.com/freelancers/~01e4603bb973dda644
 
 <!---
 VladULazarev/VladULazarev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
