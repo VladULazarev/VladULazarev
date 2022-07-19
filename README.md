@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Vlad
 - 👀 I’m interested in web development (back-end mostly), PHP, OOP and so on...
-- 💞️ I'm looking to collaborate on whatever you would like it to be...
 -
+- My Skills:
+- PHP 7.x, OOP, MYSQL, jQuery, HTML5, CSS3, Version control (Git), Docker, Laravel, LAMP.
+-
+- My resume: https://www.getyoursite.info/app/downloads/VladLazarevResume.pdf
+- 
 - 📫 How to contact me:
 - My profile: https://novorossiysk.hh.ru/applicant/resumes/view?resume=eb0badfdff094aa3880039ed1f6a4f684a5a49
 - To find out more about me visit my website: https://www.getyoursite.info
