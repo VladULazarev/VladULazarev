@@ -4,11 +4,11 @@
 - My Skills:
 - PHP 7.x, 8.0, OOP, MYSQL, jQuery, HTML5, CSS3, Version control (Git), Docker, Laravel, LAMP.
 -
-- My resume: https://www.getyoursite.info/app/downloads/VladLazarevResume.pdf
+- My resume: https://getyoursite.info/app/downloads/VladLazarevResume.pdf
 - 
-- 📫 How to contact me:
-- To have a look at my profile find out more about me visit my website: https://www.getyoursite.info
-- Send me your message: https://www.getyoursite.info/contact-me
+- How to contact me:
+- To have a look at my profile (in English), and find out more about me visit my website: https://getyoursite.info
+- Send me your message: https://getyoursite.info/contact-me
 - Email me: getyourbestsite@gmail.com
 
 <!---
