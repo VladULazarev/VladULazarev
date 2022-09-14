@@ -5,6 +5,7 @@
 - PHP 7.x, 8.0, OOP, MYSQL, jQuery, HTML5, CSS3, Version control (Git), Docker, Laravel, LAMP.
 -
 - To have a look at my profile and find out more about me visit my website: https://getyoursite.info
+- You will find my full portfolio and the links to my projects.
 -
 - My resume: https://getyoursite.info/app/downloads/VladLazarevResume.pdf
 - 
