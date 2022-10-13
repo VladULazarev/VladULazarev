@@ -2,7 +2,7 @@
 - I’m interested in web development (back-end mostly), PHP, OOP and so on...
 -
 - My Skills:
-- PHP 7.x, 8.0, OOP, MYSQL, jQuery, HTML5, CSS3, Version control (Git), Docker, Laravel, LAMP.
+- PHP 7.x, 8.0, OOP, MYSQL, jQuery, HTML5, CSS3, Version control (Git), Docker, Laravel, LAMP, Yii 2
 -
 - To have a look at my profile and find out more about me visit my website: https://getyoursite.info
 - You will find my full portfolio and the links to my projects.
