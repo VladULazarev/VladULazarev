@@ -15,7 +15,6 @@
 Check out the other public repositories:
 
 - https://github.com/VladULazarev/yii-task
-- https://github.com/VladULazarev/generate-numbers
 - https://github.com/VladULazarev/trigger-procedure
 - https://github.com/VladULazarev/PHPUnit
 - https://github.com/VladULazarev/send-review
