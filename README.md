@@ -19,6 +19,10 @@ Check out the other public repositories:
 - https://github.com/VladULazarev/PHPUnit
 - https://github.com/VladULazarev/send-review
 
+Check out the website written by me from scratch on Laravel 9:
+
+- https://bestsmoothjazz.ru
+
 <!---
 VladULazarev/VladULazarev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
