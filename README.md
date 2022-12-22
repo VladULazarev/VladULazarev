@@ -16,7 +16,6 @@ Check out the other public repositories:
 
 - https://github.com/VladULazarev/trigger-procedure
 - https://github.com/VladULazarev/PHPUnit
-- https://github.com/VladULazarev/send-review
 
 Check out the website written by me from scratch on Laravel 9:
 
