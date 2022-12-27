@@ -17,6 +17,7 @@ Check out the other public repositories:
 - https://github.com/VladULazarev/trigger-procedure
 - https://github.com/VladULazarev/PHPUnit
 - https://github.com/VladULazarev/generate-numbers
+- https://github.com/VladULazarev/install-lamp-on-ubuntu
 
 Check out the website written by me from scratch on Laravel 9:
 
