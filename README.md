@@ -19,7 +19,7 @@ Check out the other public repositories:
 - https://github.com/VladULazarev/install-lamp-on-ubuntu
 - https://github.com/VladULazarev/send-review
 
-Check out the website written by me from scratch on Laravel 9:
+Check out the website written by me from scratch using Laravel 9:
 
 - https://bestsmoothjazz.ru
 
