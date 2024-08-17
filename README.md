@@ -2,7 +2,7 @@
 - I’m interested in web development (back-end mostly), PHP, OOP and so on...
 -
 - My Skills:
-- PHP 7.x, 8.0, OOP, MYSQL, jQuery, HTML5, CSS3, Version control (Git), Docker, Laravel, LAMP, Yii 2, Vue
+- PHP 7.x, 8.1, OOP, MYSQL, jQuery, HTML5, CSS3, Version control (Git), Docker, Laravel, LAMP, Yii 2, Vue
 - 
 - Email me: getyourbestsite@gmail.com
 
