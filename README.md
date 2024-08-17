@@ -6,10 +6,9 @@
 - 
 - Email me: getyourbestsite@gmail.com
 
-Check out the other public repositories:
+My website:
 
-- https://github.com/VladULazarev/trigger-procedure
-- https://github.com/VladULazarev/install-lamp-on-ubuntu
+- http://vlgroove.space
 
 Check out the website written by me from scratch using Laravel 9:
 
