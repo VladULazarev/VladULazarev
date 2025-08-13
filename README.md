@@ -8,7 +8,7 @@
 
 My website:
 
-- http://vlgroove.space
+- http://vl-groove.space
 
 Check out the website written by me from scratch using Laravel 9:
 
